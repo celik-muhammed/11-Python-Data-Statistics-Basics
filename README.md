@@ -1,3 +1,1 @@
-# 11-Data-Statistics-Basics
-
-00. [ ] [Go to Main Page - 00-Index-of-GitHub-Public-Projects-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs)
+### [Go to Home Page](https://github.com/celik-muhammed)
